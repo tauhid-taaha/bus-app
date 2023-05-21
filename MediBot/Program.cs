@@ -17,6 +17,10 @@ namespace MediBot
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new buspannel());
+            //Application.EnableVisualStyles();
+           // Application.SetCompatibleTextRenderingDefault(false);
+           // Application.Run(new buspannel());
+
         }
     }
 }
